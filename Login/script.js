@@ -1,1 +1,0 @@
-alert("temos prova de fisica agora")
