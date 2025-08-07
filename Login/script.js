@@ -3,7 +3,6 @@ function login(){
     var senha = $('#senha').val()
 
     if(nome && senha && nome === "admin" && senha === "admin"){
-
         const user = {
             name:nome,
             dataEntrada: new Date(),
