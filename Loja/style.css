@@ -65,3 +65,7 @@ h1, h2{
     justify-content: center;
     gap: 10px;
 }
+
+.btn{
+   font-weight: bolder;
+}
